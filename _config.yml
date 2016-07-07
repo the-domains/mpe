@@ -1,0 +1,14 @@
+layout_spectrum: 0.5273139958735555
+typography_spectrum: 0.6830741462763399
+color:
+  brandStrength: 0.7113331146538258
+  lightness: 0.26894942531362176
+  saturation: 0.11461562104523182
+  rhythmicContrast: 0.47001909324899316
+  brandColors:
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+name: MPE
